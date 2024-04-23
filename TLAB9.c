@@ -118,8 +118,7 @@ int main(int argv,char *argc[]){
         }
     }*/
     
-   parcurgereRecursiva(f,argc[2]);
-
+    parcurgereRecursiva(f,argc[2]);
     
       
 
